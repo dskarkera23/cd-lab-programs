@@ -1,0 +1,14 @@
+#include<stdio.h>
+main()
+{
+int a,b;
+writef("Enter the value of a and b\n");
+/* Input values for a and b*/
+// Input values for a and b
+readf("%d%d",&a,&b);/*values entered are assigned to a and b
+vsdcfsd
+dsg
+sdb */
+writef("The numbers are %d and %d\n",a,b)
+writef("The numbers are %d and %d\n",a,b)
+writef("The numbers are %d and %d\n",a,b);
