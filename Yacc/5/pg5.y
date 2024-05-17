@@ -11,7 +11,9 @@ alphanumeric: LETTER alphanumeric
 | UND alphanumeric
 | LETTER
 | DIGIT
-| UND ;
+| UND
+|
+;
 %%
 int yyerror()
 {
